@@ -8,3 +8,5 @@
 - data://
   - data://raw
   - data:// base64
+
+直接讲本目录的文件夹拖放至google的扩展程序页面即可实现安装
